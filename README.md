@@ -3,25 +3,25 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Mac kingsley, a full-time full-stack Software engineer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on a Trade Automation Desktop software
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ I Build Fintech , Edtech, Medtech , Automation , and Enterprise softwares
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ let's meet on codewars
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Stacks
 <table><tr><td valign="top" width="33%">
 
 
@@ -81,7 +81,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/mackings" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
@@ -130,7 +130,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+            
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
@@ -139,4 +139,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
