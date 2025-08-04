@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-- 📱 App Developer: **Flutter**, **React Native**
-- 🧠 Backend Dev: **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**
 - ⚙️ DevOps: **Docker**, **Kubernetes**, **Helm**, **Terraform**, **GitHub Actions**
 - ☁️ Cloud Platforms: **AWS**, **GCP**, **Azure**
+-  📱 Mobile App Developer: **Flutter**, **React Native**
+- 🧠 Backend Dev: **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**
 - 📡 Messaging: **Kafka**, **RabbitMQ**, **Redis Streams**
 - 🌱 Exploring: **Hyperledger**, **AI at the Edge**
 
