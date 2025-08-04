@@ -59,13 +59,6 @@
   <img src="https://img.icons8.com/color/120/azure-1.png" title="Azure"/>
 </p>
 
-### 📨 Messaging Systems
-<p align="center">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/6e49c04283feec6a6bbd32529fddce06adf4e9b3/svg/apache-kafka.svg" width="100" title="Kafka"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="120" title="RabbitMQ"/>
-  <img src="https://img.icons8.com/color/120/redis.png" title="Redis Streams"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
