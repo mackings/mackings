@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#fca311;">Mac Kingsley</span> 👋</h1>
-<h3 align="center">Full-Stack Engineer | App Developer | DevOps & Cloud Enthusiast</h3>
+<h3 align="center">Software Engineer | DevOps Engineer | Platform Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+%2F+React+Native+App+Engineer;Cloud-Native+DevOps+%7C+K8s+%7C+Terraform+%7C+CI%2FCD;Backend+with+Node.js+Express+Mongo+PostgreSQL;All-things+Automation+%F0%9F%9A%80" />
@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/120/flutter.png" title="Flutter"/>
   <img src="https://img.icons8.com/color/120/react-native.png" title="React Native"/>
   <img src="https://img.icons8.com/color/120/android-os.png" title="Android"/>
-  <img src="https://img.icons8.com/ios-filled/120/apple-logo.png" title="iOS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="96" title="iOS"/>
 </p>
 
 ### 🧠 Backend Development
@@ -61,7 +61,7 @@
 
 ### 📨 Messaging Systems
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" width="100" title="Kafka"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/6e49c04283feec6a6bbd32529fddce06adf4e9b3/svg/apache-kafka.svg" width="100" title="Kafka"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="120" title="RabbitMQ"/>
   <img src="https://img.icons8.com/color/120/redis.png" title="Redis Streams"/>
 </p>
