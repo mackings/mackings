@@ -7,63 +7,63 @@
 <h3 align="center">Full-Stack Engineer | App Developer | DevOps & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Mobile+%2F+Web+App+Engineer;Cloud-native+Architectures+Expert;CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+AWS+%2F+GCP;I+automate+everything!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+%2F+React+Native+App+Engineer;Cloud-Native+DevOps+%7C+K8s+%7C+Terraform+%7C+CI%2FCD;Backend+with+Node.js+Express+Mongo+PostgreSQL;All-things+Automation+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 📱 App Developer using **Flutter** & **React Native**
-- 🧠 Backend Dev with **Node.js**, **Express**, **Mongoose**, **PostgreSQL**
-- ☁️ DevOps | CI/CD | Kubernetes | Docker | Helm | Terraform
-- 🔧 Cloud: **AWS**, **GCP**, **Azure**
+- 📱 App Developer: **Flutter**, **React Native**
+- 🧠 Backend Dev: **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**
+- ⚙️ DevOps: **Docker**, **Kubernetes**, **Helm**, **Terraform**, **GitHub Actions**
+- ☁️ Cloud Platforms: **AWS**, **GCP**, **Azure**
 - 📡 Messaging: **Kafka**, **RabbitMQ**, **Redis Streams**
-- 🌱 Currently exploring **Hyperledger**, **AI in Edge Devices**
+- 🌱 Exploring: **Hyperledger**, **AI at the Edge**
 
 ---
 
-## 🛠️ Tech Stack (Big, Modern & Bold)
+## 🛠️ Tech Stack
 
 ### 📱 App Development
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/flutter.png" title="Flutter"/>
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" title="React Native"/>
-  <img src="https://img.icons8.com/color/96/000000/android-os.png" title="Android"/>
-  <img src="https://img.icons8.com/color/96/000000/apple-logo.png" title="iOS"/>
+  <img src="https://img.icons8.com/color/120/flutter.png" title="Flutter"/>
+  <img src="https://img.icons8.com/color/120/react-native.png" title="React Native"/>
+  <img src="https://img.icons8.com/color/120/android-os.png" title="Android"/>
+  <img src="https://img.icons8.com/ios-filled/120/apple-logo.png" title="iOS"/>
 </p>
 
 ### 🧠 Backend Development
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/ios-filled/96/express.png" title="Express.js"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/120/nodejs.png" title="Node.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="96" title="Express.js"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/120/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/120/postgreesql.png" title="PostgreSQL"/>
 </p>
 
 ### ⚙️ DevOps & Infrastructure
 <p align="center">
-  <img src="https://img.icons8.com/color/96/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/96/kubernetes.png" title="Kubernetes"/>
-  <img src="https://img.icons8.com/color/96/terraform.png" title="Terraform"/>
-  <img src="https://img.icons8.com/fluency/96/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/96/linux.png" title="Linux"/>
-  <img src="https://img.icons8.com/color/96/bash.png" title="Bash Scripting"/>
-  <img src="https://img.icons8.com/ios-filled/96/helm.png" title="Helm"/>
+  <img src="https://img.icons8.com/color/120/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/120/kubernetes.png" title="Kubernetes"/>
+  <img src="https://img.icons8.com/color/120/terraform.png" title="Terraform"/>
+  <img src="https://img.icons8.com/fluency/120/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/120/linux.png" title="Linux"/>
+  <img src="https://img.icons8.com/ios-filled/120/console.png" title="Bash Scripting"/>
+  <img src="https://helm.sh/img/helm.svg" width="100" title="Helm"/>
 </p>
 
 ### ☁️ Cloud Platforms
 <p align="center">
-  <img src="https://img.icons8.com/color/96/amazon-web-services.png" title="AWS"/>
-  <img src="https://img.icons8.com/color/96/google-cloud.png" title="Google Cloud Platform"/>
-  <img src="https://img.icons8.com/color/96/azure-1.png" title="Microsoft Azure"/>
+  <img src="https://img.icons8.com/color/120/amazon-web-services.png" title="AWS"/>
+  <img src="https://img.icons8.com/color/120/google-cloud.png" title="GCP"/>
+  <img src="https://img.icons8.com/color/120/azure-1.png" title="Azure"/>
 </p>
 
 ### 📨 Messaging Systems
 <p align="center">
-  <img src="https://img.icons8.com/color/96/apache-kafka.png" title="Apache Kafka"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-rabbitmq-is-an-open-source-message-broker-software-logo-color-tal-revivo.png" title="RabbitMQ"/>
-  <img src="https://img.icons8.com/color/96/redis.png" title="Redis Streams"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" width="100" title="Kafka"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="120" title="RabbitMQ"/>
+  <img src="https://img.icons8.com/color/120/redis.png" title="Redis Streams"/>
 </p>
 
 ---
@@ -81,13 +81,13 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/mackings"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/rishavanand"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/iamrishavanand"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/iamrishavanand"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mackings"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/mackings"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/mackings"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
