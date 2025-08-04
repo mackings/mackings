@@ -25,21 +25,6 @@
 
 ## 🛠️ Tech Stack
 
-### 📱 App Development
-<p align="center">
-  <img src="https://img.icons8.com/color/120/flutter.png" title="Flutter"/>
-  <img src="https://img.icons8.com/color/120/react-native.png" title="React Native"/>
-  <img src="https://img.icons8.com/color/120/android-os.png" title="Android"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="96" title="iOS"/>
-</p>
-
-### 🧠 Backend Development
-<p align="center">
-  <img src="https://img.icons8.com/color/120/nodejs.png" title="Node.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="96" title="Express.js"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/120/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/120/postgreesql.png" title="PostgreSQL"/>
-</p>
 
 ### ⚙️ DevOps & Infrastructure
 <p align="center">
@@ -58,6 +43,23 @@
   <img src="https://img.icons8.com/color/120/google-cloud.png" title="GCP"/>
   <img src="https://img.icons8.com/color/120/azure-1.png" title="Azure"/>
 </p>
+
+### 🧠 Backend Development
+<p align="center">
+  <img src="https://img.icons8.com/color/120/nodejs.png" title="Node.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="96" title="Express.js"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/120/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/120/postgreesql.png" title="PostgreSQL"/>
+</p>
+
+### 📱 App Development
+<p align="center">
+  <img src="https://img.icons8.com/color/120/flutter.png" title="Flutter"/>
+  <img src="https://img.icons8.com/color/120/react-native.png" title="React Native"/>
+  <img src="https://img.icons8.com/color/120/android-os.png" title="Android"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="96" title="iOS"/>
+</p>
+
 
 ---
 
