@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 
 ### ⚙️ DevOps & Infrastructure
